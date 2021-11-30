@@ -10,4 +10,4 @@ The range of dates may be changed by simply changing: year_array, month_array, d
 
 Output: directory_file_retriever will begin to download the images located at the specified directory into the same folder as directory_file_retreiver. Of course, a specified path may be used if preferred.
 
-Author/Address: Nicholas E. Clark / nicholas.e.clark@ttu.edu
+Author/Address: Nicholas E. Clark / nicholas.e.clark@ttu.edu or nicholas.e.clark98@gmail.com
