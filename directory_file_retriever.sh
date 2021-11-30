@@ -1,4 +1,5 @@
-#!/bin/bash
+#author: Nicholas E. Clark / nicholas.e.clark@ttu.edu or nicholas.e.clark98@gmail.com
+#version: 30 NOV 2021
 
 year_array=(2014 2015 2016 2017 2018)
 month_array=(01 02 03 04 05 06 07 08 09 10 11 12)
